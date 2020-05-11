@@ -1,0 +1,3 @@
+# paste your API key below
+API_KEY='INSERT YOUR API KEY HERE'
+# then save file as config.py
